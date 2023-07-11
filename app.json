@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "controlPagos",
+    "slug": "controlPagos",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "controlPagos"
+}
